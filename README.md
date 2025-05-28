@@ -1,7 +1,7 @@
 # Hi there! I'm Varshith Dupati 👋
 
 ## 🧑‍💻 About Me
-I'm a **Software Engineer** and a **CS Graduate from Arizona State University (ASU)**, passionate about building scalable and intelligent systems. My primary areas of expertise are **Java**, **Python**, **Cloud Computing (AWS, GCP)**, and **Generative & Agentic AI**. Whether it's crafting backend architectures, analyzing data, or building AI-powered solutions, I love solving complex problems through technology.
+I'm a **Software Engineer** and a **CS Graduate from Arizona State University (ASU)**, passionate about building scalable and intelligent systems. My primary areas of expertise are **Java**, **Python**, **Cloud Computing (AWS, GCP)**, and **Generative & Agentic AI (OpenAI API, LangChain)**. Whether it's crafting backend architectures, analyzing data, or building AI-powered solutions, I love solving complex problems through technology.
 
 ---
 
