@@ -13,7 +13,7 @@ Here are some of my key projects:
 - **Technologies:** AWS EC2, S3, SQS, Lambda, IAM, Elastic IP, Python, ResNet34 (CNN), Docker, AWS SDK, custom AMIs
 
 ### 2. [Yelp Data Analysis](https://github.com/dvarshith/Yelp-Data-Analysis)
-- **Description:** Analyzed 10K businesses & 1M+ reviews using Spark/Hadoop, revealing sentiment trends & boosting marketing by 15%.
+- **Description:** Analyzed 10K businesses & 1M+ reviews using Spark/Hadoop, revealing sentiment trends and boosting marketing by 15%.
 - **Technologies:** Python, PySpark, Spark SQL, Apache Hadoop, Apache Spark, JSON, Parquet
 
 ---
@@ -23,7 +23,7 @@ Feel free to reach out or explore my work:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshith-dupati)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VarshithDupati)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://dvarshith.github.io](https://varshithdupati.com/))
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varshithdupati.com/))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VarshithDupati/)
 
 ---
